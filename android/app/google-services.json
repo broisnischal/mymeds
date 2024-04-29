@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072054298146",
+    "project_id": "medicationaitc",
+    "storage_bucket": "medicationaitc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072054298146:android:3c3374704d9078ccb44c7b",
+        "android_client_info": {
+          "package_name": "health.mymeds.app.mymeds_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfaSyFSn1YzXGjcuHHUfBhP4wXrGXsn-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

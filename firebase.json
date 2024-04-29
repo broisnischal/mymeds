@@ -1,0 +1,22 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "medicationaitc",
+          "appId": "1:1072054298146:android:3c3374704d9078ccb44c7b",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "medicationaitc",
+          "configurations": {
+            "android": "1:1072054298146:android:3c3374704d9078ccb44c7b",
+            "ios": "1:1072054298146:ios:52c4600756180617b44c7b"
+          }
+        }
+      }
+    }
+  }
+}
